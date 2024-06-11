@@ -24,7 +24,6 @@ The Glowing Flower Animation project is a creative way to explore CSS animations
 - **Unique Animations**: Each flower and its petals have unique animations that create a blooming effect.
 - **Customizable Colors**: The colors of the petals, stems, and glowing effects can be easily customized.
 - **Responsive Design**: The animation adjusts well to different screen sizes.
-- **Pure CSS**: The project uses no JavaScript, relying solely on CSS for the animations and effects.
 
 ## Demo
 
