@@ -984,3 +984,14 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .not-loaded * {
   animation-play-state: paused !important;
 }
+.flower--4 .flower__line {
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.2), transparent, rgba(255, 255, 255, 0.2)), linear-gradient(to top, transparent 10%, #9370DB, #BA55D3);
+}
+
+.flower--4 .flower__line__leaf {
+  background-image: linear-gradient(to top, rgba(148, 0, 211, 0.4), #9370DB);
+}
+
+.flower--4 .flower__leaf {
+  background-image: linear-gradient(to top, #9370DB, #DA70D6);
+}
