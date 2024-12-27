@@ -29,7 +29,7 @@ The Glowing Flower Animation project is a creative way to explore CSS animations
 
 To see the animation in action, open the `Home.html` file in your web browser. You can also view a live demo on [GitHub Pages](https://dumpsterdj.github.io/your-repository-name).
 
-![Demo Screenshot](screenshot.png)
+![Demo Screenshot](Screenshot.png)
 
 ## Installation
 
